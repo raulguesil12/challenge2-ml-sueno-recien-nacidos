@@ -55,9 +55,8 @@ Problema formal:
 | `02_pipeline_modelo_prediccion.ipynb` | Regresión, datos sintéticos y gráfico interpretativo | 5 |
 
 ## 5. Cómo ejecutar
-1. Sube el repositorio a GitHub.
-2. Abre cada notebook en Google Colab (`Archivo → Abrir cuaderno → GitHub`) o usa el botón *Open in Colab*.
-3. Ejecuta `Entorno de ejecución → Ejecutar todo`.
+1. Abre cada notebook en Google Colab (`Archivo → Abrir cuaderno → GitHub`) y pega el link de este repositorio.
+2. Ejecuta `Entorno de ejecución → Ejecutar todo`.
 
 Dependencias: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `networkx` (todas ya vienen en Colab).
 
