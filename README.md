@@ -4,7 +4,7 @@
 - Curso: Machine Learning – Universidad Peruana Cayetano Heredia (UPCH)
 - Docente: Yannick Patrick Carrasco Merma
 - Unidad: Fundamentos de Machine Learning
-- Estudiante: _(tu nombre completo)_
+- Estudiante: _(Raul Guevara Silva)_
 
 ---
 
