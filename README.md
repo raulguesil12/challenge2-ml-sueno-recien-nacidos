@@ -1,4 +1,4 @@
-# Challenge 1 (Individual): Pipeline de Machine Learning
+# Challenge 2 (Individual): Pipeline de Machine Learning
 **Caso asignado: Tipo C – Sueño en los Recién Nacidos (0–3 meses)**
 
 - Curso: Machine Learning – Universidad Peruana Cayetano Heredia (UPCH)
